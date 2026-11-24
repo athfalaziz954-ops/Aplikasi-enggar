@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WarungKasir</string>
+    <string name="tab_kasir">Kasir</string>
+    <string name="tab_stok">Stok</string>
+    <string name="tab_kasbon">Kasbon</string>
+    <string name="tab_laporan">Laporan</string>
+    <string name="status_online_synced">Online • Tersinkronisasi</string>
+    <string name="status_online_pending">Online • %1$d Tertunda</string>
+    <string name="status_offline_local">Offline • Tersimpan Lokal</string>
+    <string name="sync_button">Sinkronkan</string>
+    <string name="ai_assistant_fab">Asisten AI</string>
+    <string name="cd_settings">Pengaturan Warung &amp; Spreadsheet</string>
+    <string name="cd_scan_barcode">Pindai Barcode Produk</string>
+    <string name="cd_sync_data">Sinkronkan Data ke Google Sheets</string>
+    <string name="cd_clear_search">Hapus Pencarian</string>
+    <string name="cd_add_product">Tambah Produk Baru</string>
+    <string name="cd_add_customer">Tambah Pelanggan Kasbon</string>
+    <string name="cd_close_sheet">Tutup Panel</string>
+</resources>
